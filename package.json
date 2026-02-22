@@ -74,7 +74,7 @@
   "dependencies": {
     "asmcrypto.js": "^0.22.0",
     "asn1.js": "^5.0.0",
-    "bn.js": "^4.11.8",
+    "bn.js": "^5.2.3",
     "buffer": "^5.0.8",
     "compressjs": "github:openpgpjs/compressjs",
     "elliptic": "github:openpgpjs/elliptic",
